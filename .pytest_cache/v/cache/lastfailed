@@ -1,0 +1,7 @@
+{
+  "exercises/08-Your-First-If/test.py::test_for_more[[\"120\"]-execute_app]": true,
+  "exercises/11-Create-A-New-Function/test.py::test_for_file_output": true,
+  "exercises/11-Create-A-New-Function/test.py::test_for_return": true,
+  "exercises/14-Rand-From-One-to-Six/test.py::test_conditional": true,
+  "exercises/16-Create-A-For-Loop/test.py::test_for_file_output": true
+}
